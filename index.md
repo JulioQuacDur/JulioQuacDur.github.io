@@ -6,9 +6,10 @@ layout: home
 ---
 
 In here you can find my notes (in form of posts), 
-the [about] page, my CV and projects
+the [about] page, my CV and [projects]
 I've been working on. This website is currently 
 under work.
 
 
 [about]: /about/
+[projects]: /projects/

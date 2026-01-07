@@ -1,0 +1,9 @@
+<div class="project-card" onclick="window.location.href='{{ include.link | relative_url}}'">
+    <div class="project-image-container">
+        <img src="{{ include.image | relative_url }}" alt="{{ include.title }}">
+    </div>
+    <div class="project-info">
+        <h3 style="margin-top: 0;">{{ include.title }}</h3>
+        <p>{{ include.description }}</p>
+    </div>
+</div>
