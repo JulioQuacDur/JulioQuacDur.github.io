@@ -24,8 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog for any work related to mathematics 
   and programming
 
+# This have to commented and uncommented when published to github pages.
 #baseurl: ""
-baseurl: "julioquacdur.github.io/" # the subpath of your site, e.g. /blog
+#url: ""
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "julioquacdur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  JulioQuacDur
