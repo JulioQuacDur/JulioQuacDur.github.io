@@ -20,8 +20,8 @@ permalink: /about/
     hyperbolic geometry, and I am currently working
     on complex hyperbolic geometry,
     focusing on constructing fundamental domains for
-    the actions of discrete groups in PU(2,1).
+    the actions of discrete groups in \(PU(2,1)\).
         </p>
 </div>
-<img src="/assets/img/prof_pic.jpg" alt="My Photo" style="width:200px; border-radius:1%; flex-shrink: 0;">
+<img src="/assets/img/prof_pic.jpg" alt="My Photo" style="width:250px; border-radius:10px; flex-shrink: 0;">
 </div>

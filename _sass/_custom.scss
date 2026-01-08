@@ -43,6 +43,7 @@
     height: 200px;
     width: 100%;
     opacity: 0.6;
+    cursor: pointer;
     
     h3{
         color: $brand-color;
@@ -74,4 +75,12 @@
 .project-card:hover{
     transform: scale(1.05);
     opacity: 1;
+}
+
+
+p{
+    text-align: justify;
+    hyphens: auto;
+    text-wrap: pretty; 
+    text-rendering: optimizeLegibility;    
 }
