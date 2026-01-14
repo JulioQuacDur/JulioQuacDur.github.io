@@ -6,17 +6,30 @@ permalink: /projects/
 
 
 
-{% capture come_desc %}
-A small website to visualize the moduli space
-of flat metrics the sphere with 6 cone point singularities.
+{% capture comes_desc %}
+    A small website to visualize the moduli space
+    of flat metrics the sphere with 6 cone point singularities.
 {% endcapture%}
+{%
+include project_card.html 
+title='CoMeS' 
+image='/assets/img/CoMeS.png'
+description=comes_desc
+link ='https://julioquacdur.github.io/CoMeS/'
+%}
 
-{% include project_card.html 
-    title='CoMeS' 
-    image='/assets/img/CoMeS.png'
-    description=come_desc
 
-    link ='https://julioquacdur.github.io/CoMeS/'%}
+{% capture fdomains_desc %}
+    Visualizing Ford Domains and Isometric Circles of 
+    Punctured Torus Groups.
+{% endcapture%}
+{%
+    include project_card.html 
+    title='FDomains' 
+    image='/assets/img/FDomains.png'
+    description=fdomains_desc
+    link ='https://julioquacdur.github.io/FDomains/'
+%}
 
 
 [irene_thesis]: https://etheses.dur.ac.uk/view/creators/PASQUINELLI=3AIRENE=3A=3A.html
